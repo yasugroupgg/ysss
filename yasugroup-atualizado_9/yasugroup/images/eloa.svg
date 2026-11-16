@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">Avatar ilustrado de Eloa</title>
+  <desc id="desc">Ilustração abstrata de uma profissional de servidores usando fones de headset.</desc>
+  <circle cx="50" cy="50" r="49" fill="#16263a"/>
+  <rect x="62" y="14" width="24" height="7" rx="2" fill="#2b4a6b"/><rect x="62" y="24" width="24" height="7" rx="2" fill="#2b4a6b"/>
+  <circle cx="66" cy="17.5" r="1.4" fill="#5fe3a1"/><circle cx="66" cy="27.5" r="1.4" fill="#7f8cff"/>
+  <path d="M20 88c5-18 16-27 30-27s25 9 30 27" fill="#3fb8a8"/>
+  <path d="M31 46c-3 14-1 28 6 36l26 0c7-8 9-22 6-36z" fill="#3a2b2b"/>
+  <circle cx="50" cy="43" r="17" fill="#d9a07c"/>
+  <path d="M32 42c0-14 8-22 19-22 11 0 18 8 17 22-4-7-10-10-18-10-8 0-13 3-18 10Z" fill="#3a2b2b"/>
+  <circle cx="43" cy="44" r="2" fill="#272033"/><circle cx="57" cy="44" r="2" fill="#272033"/>
+  <path d="M44 52c4 3 8 3 12 0" stroke="#7a3f3f" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M31 44c0-16 8-25 19-25s19 9 19 25" stroke="#7f8cff" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="27" y="42" width="6" height="12" rx="3" fill="#7f8cff"/><rect x="67" y="42" width="6" height="12" rx="3" fill="#7f8cff"/>
+  <path d="M70 52c0 8-6 10-14 10" stroke="#7f8cff" stroke-width="2" fill="none" stroke-linecap="round"/><circle cx="55" cy="62" r="2.2" fill="#7f8cff"/>
+</svg>

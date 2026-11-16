@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title desc">
+  <title id="title">Avatar ilustrado de Devy</title>
+  <desc id="desc">Ilustração abstrata de uma pessoa programadora.</desc>
+  <circle cx="50" cy="50" r="49" fill="#251a3d"/>
+  <path d="M20 88c5-18 16-27 30-27s25 9 30 27" fill="#f29d49"/>
+  <circle cx="50" cy="42" r="18" fill="#e7b18b"/>
+  <path d="M32 40c1-15 8-24 20-24 12 0 18 9 17 23-5-6-11-8-18-8-7 0-13 3-19 9Z" fill="#302337"/>
+  <circle cx="43" cy="43" r="2" fill="#272033"/><circle cx="57" cy="43" r="2" fill="#272033"/>
+  <path d="M44 53l6-4 6 4" fill="none" stroke="#8b4e56" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M35 72l-7 6m37-6 7 6" stroke="#7f8cff" stroke-width="3" stroke-linecap="round"/>
+</svg>
